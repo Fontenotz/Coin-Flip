@@ -1,0 +1,10 @@
+Rem * Title  : IF THEN Commands
+Rem * Author : DBS-MB
+Rem * Date   : 1st August 99
+function flipcoin()
+coin=rnd(1)
+if coun=0
+print "heads"
+else 
+print "Tails"
+endfunction
